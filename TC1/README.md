@@ -7,6 +7,6 @@ Número: a113848
 
 ## Resumo
 
-jjjj
+Resolução do nível 10 do jogo Maze, disponível no Blockly Games, e reprodução, utilizando a ferramenta Turtle, do desenho apresentado na aula
 
 ## Resultados
