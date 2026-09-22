@@ -4,4 +4,4 @@
 - Carolina Silva Passos
 - a113848
 
-  IMG_0985.jnp
+ IMG_0985.jpg
