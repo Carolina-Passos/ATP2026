@@ -4,7 +4,7 @@
 
 -Carolina Silva Passos
 -a113848
--![foto]
+-![IMG_1045]
 
 ## Resumo
 
