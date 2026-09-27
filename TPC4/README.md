@@ -7,4 +7,4 @@
 
 ## Resumo
 
-## Resolução
+## Resultados
