@@ -9,3 +9,4 @@
 
 
 ## Resultados
+[corrida para o 100-a113848.py](https://github.com/user-attachments/files/32980465/corrida.para.o.100-a113848.py)
