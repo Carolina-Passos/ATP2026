@@ -9,4 +9,4 @@
 Desenvolva um programa em Python para implementar uma aplicação de manipulação de listas de inteiros, através de um menu interativo que permita criar e gerir uma lista armazenada internamente. O utilizador deverá poder criar uma lista aleatória, introduzir uma lista manualmente, calcular a soma, a média, o maior e o menor elemento, verificar se a lista está ordenada por ordem crescente ou decrescente e procurar um elemento na lista. O menu deverá ser apresentado repetidamente até que o utilizador escolha a opção de sair, momento em que a aplicação termina apresentando a lista atualmente armazenada.
 
 ## Resultados
-[aplicação para manipulação de listas de inteiros-a113848.py](https://github.com/user-attachments/files/33252657/aplicacao.para.manipulacao.de.listas.de.inteiros-a113848.py)
+[aplicação para manipulação de listas de inteiros-a113848.py](https://github.com/user-attachments/files/33459491/aplicacao.para.manipulacao.de.listas.de.inteiros-a113848.py)
