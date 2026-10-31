@@ -6,5 +6,6 @@
 ![foto](IMG_0985.jpg)
 
 ## Resumo
+Resolva o teste de aferição proposto pelo professor
 
 ## Resultados
